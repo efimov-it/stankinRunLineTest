@@ -1,0 +1,167 @@
+{
+    "table_actions": 
+    [
+        {
+            "methods": [
+                "announces",
+                "addAnnounce",
+                "editAnnounce",
+                "delAnnounce"
+            ]
+        },
+        {
+            "methods" : [
+                "attachments",
+                "addAttachment",
+                "delAttachment"
+            ]
+        },
+        {   "methods" : [
+                "documents",
+                "addDocument",
+                "delDocument",
+                "editDocument"
+            ]
+        },
+        {   "methods" : [
+                "main_buttons",
+                "addMainTag",
+                "editMainTag",
+                "delMainTag"
+            ]
+        },
+        {   "methods" : [
+                "menu_item",
+                "addSubmenu",
+                "editItemMenu",
+                "deleteSubmenu",
+                "deleteItemMenu",
+                "addItemMenu",
+                "editItemSubmenu"
+            ]
+        },
+        {   "methods" : [
+                "news",
+                "addNews",
+                "delNewsItem",
+                "editNewsItem"
+            ]
+        },
+        {   "methods" : [
+                "pages",
+                "addTemplateCategoryModal",
+                "delTemplateCategoryModal",
+                "delTemplateCategoryMenu",
+                "editTemplateCategoryPage",
+                "editTemplateCategoryPage"
+
+            ]
+        },
+        {   "methods" : [
+                "partners",
+                "addPartner",
+                "delPartner"
+            ]
+        },
+        {   "methods" : [
+                "sliders"
+            ]
+        },
+        {   "methods" : [
+                "slides",
+                "addSlide",
+                "editSlide",
+                "deleteSlide"
+            ]
+        },
+        {   "methods" : [
+                "social",
+                "editSocial"
+            ]
+        },
+        {   "methods" : [
+                "study_forms",
+                "addStudyForm",
+                "editStudyForm",
+                "delStudyForm"
+            ]
+        },
+        {   "methods" : [
+                "study_groups",
+                "addStudyGroup",
+                "editStudyGroup"
+            ]
+        },
+        {   "methods" : [
+                "study_stream",
+                "addStudyStream",
+                "editStudyStream",
+                "delStudyStream"
+            ]
+        },
+        {   "methods" : [
+                "subdivision_user"
+            ]
+        },
+        {   "methods" : [
+                "subdivisions",
+                "addSubdivision",
+                "editSubdivision",
+                "buildTreeSubdivisions"
+            ]
+        },
+        {   "methods" : [
+                "submenu"
+            ]
+        },
+        {   "methods" : [
+                "subscribers"
+            ]
+        },
+        {   "methods" : [
+                "tables_view",
+                "addJSONTable",
+                "editJSONTable",
+                "getJSONTable",
+                "delJSONTable"
+            ]
+        },
+        {   "methods" : [
+                "tags",
+                "addMainTag",
+                "editMainTag",
+                "delMainTag"
+            ]
+        },
+        {   "methods" : [
+                "template_category_menu_item",
+                "editTemplateCategoryMenuItem",
+                "addTemplateCategoryMenu",
+                "delTemplateCategoryMenu",
+                "getTemplateCategory"
+            ]
+        },
+        {   "methods" : [
+                "template_category_submenu",
+                "addTemplateCategoryMenu",
+                "delTemplateCategoryMenu",
+                "getTemplateCategory"
+            ]
+        },
+        {   "methods" : [
+                "template_page",
+                "addTemplateCategory",
+                "editTemplateCategory",
+                "getTemplateCategory",
+                "getTemplateCategories"
+            ]
+        },
+        {   "methods" : [
+                "users",
+                "addStuff",
+                "editStuff",
+                "delStuff"
+            ]
+        }
+    ]
+}
